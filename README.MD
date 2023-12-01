@@ -11,11 +11,11 @@ Aplikasi ini adalah sebuah program Java yang dibuat untuk mencatat dan mengelola
 
 ## Alat Yang Digunakan
 
-> Bahasa Pemrograman: _**Java**_
-> Versi : _**JDK 21**_
-> Aplikasi : _**Laragon dan Apache Netbeans IDE 19**_
-> Database: _**MySQL**_
-> Library: _**JDBC**_
+- Bahasa Pemrograman: _**Java**_
+- Versi : _**JDK 21**_
+- Aplikasi : _**Laragon dan Apache Netbeans IDE 19**_
+- Database: _**MySQL**_
+- Library: _**JDBC**_
 
 ## Fitur Biodata di Java
 
